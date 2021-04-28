@@ -1,0 +1,14 @@
+c:\users\nbslhict05\documents\visual studio 2015\Projects\WpfApplication_Helloworld\WpfApplication_Helloworld\bin\Debug\WpfApplication_Helloworld.exe.config
+C:\Users\NBSLHICT05\documents\visual studio 2015\Projects\WpfApplication_Helloworld\WpfApplication_Helloworld\bin\Debug\WpfApplication_Helloworld.exe
+C:\Users\NBSLHICT05\documents\visual studio 2015\Projects\WpfApplication_Helloworld\WpfApplication_Helloworld\bin\Debug\WpfApplication_Helloworld.pdb
+C:\Users\NBSLHICT05\documents\visual studio 2015\Projects\WpfApplication_Helloworld\WpfApplication_Helloworld\obj\Debug\WpfApplication_Helloworld.csprojResolveAssemblyReference.cache
+C:\Users\NBSLHICT05\documents\visual studio 2015\Projects\WpfApplication_Helloworld\WpfApplication_Helloworld\obj\Debug\MainWindow.g.cs
+C:\Users\NBSLHICT05\documents\visual studio 2015\Projects\WpfApplication_Helloworld\WpfApplication_Helloworld\obj\Debug\App.g.cs
+C:\Users\NBSLHICT05\documents\visual studio 2015\Projects\WpfApplication_Helloworld\WpfApplication_Helloworld\obj\Debug\WpfApplication_Helloworld_MarkupCompile.cache
+C:\Users\NBSLHICT05\documents\visual studio 2015\Projects\WpfApplication_Helloworld\WpfApplication_Helloworld\obj\Debug\WpfApplication_Helloworld_MarkupCompile.lref
+C:\Users\NBSLHICT05\documents\visual studio 2015\Projects\WpfApplication_Helloworld\WpfApplication_Helloworld\obj\Debug\MainWindow.baml
+C:\Users\NBSLHICT05\documents\visual studio 2015\Projects\WpfApplication_Helloworld\WpfApplication_Helloworld\obj\Debug\WpfApplication_Helloworld.g.resources
+C:\Users\NBSLHICT05\documents\visual studio 2015\Projects\WpfApplication_Helloworld\WpfApplication_Helloworld\obj\Debug\WpfApplication_Helloworld.Properties.Resources.resources
+C:\Users\NBSLHICT05\documents\visual studio 2015\Projects\WpfApplication_Helloworld\WpfApplication_Helloworld\obj\Debug\WpfApplication_Helloworld.csproj.GenerateResource.Cache
+C:\Users\NBSLHICT05\documents\visual studio 2015\Projects\WpfApplication_Helloworld\WpfApplication_Helloworld\obj\Debug\WpfApplication_Helloworld.exe
+C:\Users\NBSLHICT05\documents\visual studio 2015\Projects\WpfApplication_Helloworld\WpfApplication_Helloworld\obj\Debug\WpfApplication_Helloworld.pdb
