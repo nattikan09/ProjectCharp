@@ -1,0 +1,14 @@
+c:\users\nbslhict05\documents\visual studio 2015\Projects\ArrayList\ArrayList\obj\Debug\LCArrayList.csprojResolveAssemblyReference.cache
+c:\users\nbslhict05\documents\visual studio 2015\Projects\ArrayList\ArrayList\obj\Debug\MainWindow.g.cs
+c:\users\nbslhict05\documents\visual studio 2015\Projects\ArrayList\ArrayList\obj\Debug\App.g.cs
+c:\users\nbslhict05\documents\visual studio 2015\Projects\ArrayList\ArrayList\obj\Debug\ArrayList_MarkupCompile.cache
+c:\users\nbslhict05\documents\visual studio 2015\Projects\ArrayList\ArrayList\obj\Debug\ArrayList_MarkupCompile.lref
+c:\users\nbslhict05\documents\visual studio 2015\Projects\ArrayList\ArrayList\bin\Debug\ArrayList.exe.config
+c:\users\nbslhict05\documents\visual studio 2015\Projects\ArrayList\ArrayList\bin\Debug\ArrayList.exe
+c:\users\nbslhict05\documents\visual studio 2015\Projects\ArrayList\ArrayList\bin\Debug\ArrayList.pdb
+c:\users\nbslhict05\documents\visual studio 2015\Projects\ArrayList\ArrayList\obj\Debug\MainWindow.baml
+c:\users\nbslhict05\documents\visual studio 2015\Projects\ArrayList\ArrayList\obj\Debug\ArrayList.g.resources
+c:\users\nbslhict05\documents\visual studio 2015\Projects\ArrayList\ArrayList\obj\Debug\ArrayList.Properties.Resources.resources
+c:\users\nbslhict05\documents\visual studio 2015\Projects\ArrayList\ArrayList\obj\Debug\LCArrayList.csproj.GenerateResource.Cache
+c:\users\nbslhict05\documents\visual studio 2015\Projects\ArrayList\ArrayList\obj\Debug\ArrayList.exe
+c:\users\nbslhict05\documents\visual studio 2015\Projects\ArrayList\ArrayList\obj\Debug\ArrayList.pdb

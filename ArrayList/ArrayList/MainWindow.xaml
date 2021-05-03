@@ -1,0 +1,17 @@
+﻿<Window x:Class="LCArrayList.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LCArrayList"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525" Background="White" Foreground="#FF704545">
+    <Grid>
+        <Button x:Name="bntAdd" Content="Add" HorizontalAlignment="Left" Margin="57,127,0,0" VerticalAlignment="Top" Width="75" Click="bntAdd_Click"/>
+        <Button x:Name="bntRemove" Content="Remove" HorizontalAlignment="Right" Margin="0,127,268,0" VerticalAlignment="Top" Width="75" Click="bntRemove_Click"/>
+        <Button x:Name="bntShowAll" Content="Show All" HorizontalAlignment="Left" Margin="288,127,0,0" VerticalAlignment="Top" Width="75" Click="bntShowAll_Click"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="24" Margin="105,68,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="241"/>
+        <Label x:Name="label" Content="Number" HorizontalAlignment="Left" Margin="52,65,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
