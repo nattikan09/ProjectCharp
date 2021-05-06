@@ -1,0 +1,15 @@
+﻿<Window x:Class="Lec86SortedList.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lec86SortedList"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <TextBox x:Name="keytxt" HorizontalAlignment="Left" Height="23" Margin="60,55,0,0" TextWrapping="Wrap" Text="Key" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="valuetxt" HorizontalAlignment="Left" Height="23" Margin="58,95,0,0" TextWrapping="Wrap" Text="Value" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="addbtn" Content="Add" HorizontalAlignment="Left" Margin="224,64,0,0" VerticalAlignment="Top" Width="76" Height="44" Click="addbtn_Click"/>
+
+    </Grid>
+</Window>

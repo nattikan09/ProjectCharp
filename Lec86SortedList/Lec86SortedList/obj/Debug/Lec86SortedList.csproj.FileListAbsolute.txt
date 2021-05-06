@@ -1,0 +1,14 @@
+c:\users\nbslhict05\documents\visual studio 2015\Projects\Lec86SortedList\Lec86SortedList\bin\Debug\Lec86SortedList.exe.config
+c:\users\nbslhict05\documents\visual studio 2015\Projects\Lec86SortedList\Lec86SortedList\bin\Debug\Lec86SortedList.exe
+c:\users\nbslhict05\documents\visual studio 2015\Projects\Lec86SortedList\Lec86SortedList\bin\Debug\Lec86SortedList.pdb
+c:\users\nbslhict05\documents\visual studio 2015\Projects\Lec86SortedList\Lec86SortedList\obj\Debug\MainWindow.g.cs
+c:\users\nbslhict05\documents\visual studio 2015\Projects\Lec86SortedList\Lec86SortedList\obj\Debug\App.g.cs
+c:\users\nbslhict05\documents\visual studio 2015\Projects\Lec86SortedList\Lec86SortedList\obj\Debug\Lec86SortedList_MarkupCompile.cache
+c:\users\nbslhict05\documents\visual studio 2015\Projects\Lec86SortedList\Lec86SortedList\obj\Debug\Lec86SortedList_MarkupCompile.lref
+c:\users\nbslhict05\documents\visual studio 2015\Projects\Lec86SortedList\Lec86SortedList\obj\Debug\MainWindow.baml
+c:\users\nbslhict05\documents\visual studio 2015\Projects\Lec86SortedList\Lec86SortedList\obj\Debug\Lec86SortedList.g.resources
+c:\users\nbslhict05\documents\visual studio 2015\Projects\Lec86SortedList\Lec86SortedList\obj\Debug\Lec86SortedList.Properties.Resources.resources
+c:\users\nbslhict05\documents\visual studio 2015\Projects\Lec86SortedList\Lec86SortedList\obj\Debug\Lec86SortedList.csproj.GenerateResource.Cache
+c:\users\nbslhict05\documents\visual studio 2015\Projects\Lec86SortedList\Lec86SortedList\obj\Debug\Lec86SortedList.exe
+c:\users\nbslhict05\documents\visual studio 2015\Projects\Lec86SortedList\Lec86SortedList\obj\Debug\Lec86SortedList.pdb
+c:\users\nbslhict05\documents\visual studio 2015\Projects\Lec86SortedList\Lec86SortedList\obj\Debug\Lec86SortedList.csprojResolveAssemblyReference.cache
